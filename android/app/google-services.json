@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446899980017",
+    "project_id": "timy-38bee",
+    "storage_bucket": "timy-38bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446899980017:android:6377d7de6e876afec4cb50",
+        "android_client_info": {
+          "package_name": "com.mycompany.timy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-R-LI9czJXwEfVkGdQND3FY2TDaOoSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
